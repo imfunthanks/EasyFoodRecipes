@@ -1,0 +1,332 @@
+<resources>
+    <string name="app_name">Easy Food Recipes</string>
+    <string name="attempts">Attempts Remaining: 5 </string>
+    <string name="input_text_hint">Enter password: </string>
+    <string name="login">Login</string>
+    <string name="attempts_remaining_5">Attempts Remaining: 5</string>
+    <string name="enter_name">Enter Name:</string>
+
+    <string name="move_activity">Main Course</string>
+    <string name="move2">Dessert</string>
+    <string name="move3">Beverage</string>
+
+
+    <string name="food1">Nasi Goreng</string>
+    <string name="food2">Ayam Geprek</string>
+    <string name="food3">Seblak</string>
+    <string name="food4">Mie Goreng</string>
+    <string name="food5">Tahu Gejrot</string>
+
+    <string name="beverage1">Es Campur</string>
+    <string name="beverage2">Boba Thai Tea</string>
+    <string name="beverage3">Dalgona Coffee</string>
+    <string name="beverage4">Es Kopi Susu</string>
+    <string name="beverage5">Jus Alpukat</string>
+
+    <string name="dessert1">Pudding</string>
+    <string name="dessert2">Dessert Box</string>
+    <string name="dessert3">Pancake Mangga</string>
+    <string name="dessert4">Kue Cubit</string>
+    <string name="dessert5">Tiramisu</string>
+
+    <string name="content">
+                            - Nasi 600 g\n
+                            - Telur ayam 1 butir. Kocok\n
+                            - Daging ayam 125 g. Cincang halus\n
+                            - Sosis ayam 1 buah\n
+                            - Bawang putih 3 siung. Iris halus\n
+                            - Garam sdt\n
+                            - Penyedap rasa sdt\n
+                            - Kecap ikan sdm\n
+                            - Merica sdt\n
+                            - Daun bawang 1 batang. Iris halus</string>
+
+    <string name="step_nasgor">
+                            a. Tumis bawang putih hingga harum. Tambahkan telur lalu orak-arik.\n
+                            b. Kemudian tambahkan ayam yang telah dicincang halus dan sosis. Masukkan daun bawang. Tumis lagi.\n
+                            c. Masukkan nasi lalu aduk hingga rata. Tambahkan garam, merica, kecap ikan, dan penyedap rasa. Aduk rata sampai aroma sedap atau harum tercium.\n
+                            d. Pindahkan nasi goreng putih pada piring. Taburi bawang merah goreng sebagai tambahan. </string>
+
+    <string name="bahan_geprek">
+                            - 1/2 kg ayam potong\n
+                            - 2 bungkus tepung bumbu serbaguna (150 gram)\n
+                            - 1/2 sachet penyedap rasa\n
+                            - 5 siung bawang putih\n
+                            - lada bubuk\n
+                            - garam\n
+                            - 1 buah jeruk nipis\n
+                            - 20 cabai rawit\n
+                            - secukupnya air</string>
+
+    <string name="step_geprek">
+                            - Cuci bersih ayam dan taburi perasan air jeruk nipis diamkan 15 menit\n
+                            - Untuk membuat adonan cair gunakan satu bungkus tepung bumbu serbaguna lalu tambahkan 4 siung bawang putih yang telah dihaluskan. Tambahkan penyedap rasa, lada bubuk, dan garam lalu beri air dingin secukupnya.\n
+                            - Cuci kembali ayam dari perasan air jeruk nipis dan masukkan ke adonan cair lalu diamkan 15 menit.\n
+                            - Siapkan adonan kering, cukup 1 bungkus tepung bumbu serbaguna tambah sedikit lada dan mpenyedap rasa.\n
+                            - Masukkan satu persatu ayam dalam adonan cair ke adonan kering sambil ditekan dan ditepuk. Lalu goreng pada minyak panas dengan api kecil.\n
+                            - Untuk membuat sambal mercon, goreng 20 cabai rawit dan 1 siung bawang putih kemudian ulek kasar dan beri sedikit minyak sisa penggorengan tadi.\n
+                            - Ayam geprek sambal pedas siap dihidangkan
+    </string>
+
+    <string name="bahan_seblak">
+                            - 600 ml air\n
+                            - 50 gr kerupuk bawang warna-warni\n
+                            - 50 gr mi keriting\n
+                            - 1 sendok makan bumbu nasi goreng instant pedas.\n
+                            - 1 butir telur, kocok lepas\n
+                            - 3 buah bakso belah jadi 4 bagian\n
+                            - 3 sendok makan susu full cream\n
+    </string>
+
+    <string name="step_seblak">
+                            - Rebus air hingga mendidih. Masukkan kerupuk dan mi keriting. Masak hingga kerupuk lembut.\n
+                            - Tuang bumbu nasi goreng instant nasi goreng pedas dan telur. Aduk rata.\n
+                            - Masukkan bakso yang telah digoreng terlebih dahulu, lalu masukkan susu. Aduk rata dan masak hingga mendidih. Tambahkan 3 sendok susu full cream.\n
+                            - Test rasa. Angkat dan seblak creamy mi bakso siap disajikan selagi hangat.\n
+    </string>
+
+    <string name="bahan_mie">
+                            - Mie keriting\n
+                            - Baso sapi\n
+                            - 5 udang kupas sisa ekor\n
+                            - 2 buah telur\n
+                            - Daun bawang\n
+                            - 2 siung bawang putih dicincang\n
+                            - Kaldu ayam, garam, kecap manis, lada secukupnya\n
+    </string>
+
+    <string name="step_mie">
+                            - Rebus mie kemudian sisihkan\n
+                            - Tumis bawang putih sampai harum.\n
+                            - Masukkan telur, baso sapi, udang, bawang daun dan bumbu-bumbu masak.\n
+                            - Koreksi rasa.\n
+                            - Sajikan.\n
+    </string>
+
+    <string name="bahan_gejrot">
+                            - 10 buah tahu pong\n
+                            - 1 1/2 sdm gula jawa\n
+                            - 1 sdt asam jawa\n
+                            - 1 sdm kecap\n
+                            - 250 ml air\n
+                            - garam secukupnya\n
+                            - 2 butir bawang merah\n
+                            - 2 siung bawang putih\n
+                            - 5-10 buah cabai rawit hijau
+    </string>
+
+    <string name="step_gejrot">
+        1. Siapkan tahu goreng yang sudah dipotong-potong.\n
+        2. Siapkan panci, rebus air sampai mendidih. Masukkan gula jawa dan asam jawa. Masak sampai kembali mendidih sambil terus diaduk, saring.\n
+        3. Ulek kasar bawang merah, bawang putih, cabe rawit hijau, dan garam. Siram dengan air gula jawa.\n
+        4. Sajikan tahu dengan siraman air gula jawa yang sudah dibuat.\n
+    </string>
+
+    <string name="bahan_es_campur">
+        - 1 buah pakel atau mangga\n
+        - cincau hitam secukupnya\n
+        - 2 gelas rumput laut siap pakai\n
+        - sirup stroberi atau frambos\n
+        - 2 sachet SKM\n
+        - 800 ml air matang\n
+        - es batu secukupnya\n
+    </string>
+
+    <string name="step_es_campur">
+        1. Rendam masing-masing rumput lalu dan cincau hitam dengan air panas selama 15 menit. Cuci bersih, potong-potong sesuai selera.\n
+        2. Kupas pakel, potong bentuk dadu. Sisihkan\n
+        3. Campur air, SKM dan sirup, aduk rata.\n
+        4. Susun cincau hitam, rumput laut, buah pakel serta es batu di gelas. Tuangi dengan campuran kuah.\n
+    </string>
+
+    <string name="bahan_boba">
+        - 2 sdm Thai green tea\n
+        - 100 ml air untuk merebus teh\n
+        - 2 sdm creamer\n
+        - 3 sdm gula pasir\n
+        - 2 sdm susu kental manis putih\n
+        - boba instant\n
+        - es balok secukupnya\n
+    </string>
+
+    <string name="step_boba">
+        1. Rebus Thai green tea dengan air hingga mendidih, saring.\n
+        2. Campurkan rebusan Thai green tea dengan gula pasir, creamer, dan susu kental manis, aduk hingga semuanya larut.\n
+        3. Masukkan boba dan es balok dalam gelas, lalu tuangkan campuran thai green tea ke gelas.\n
+        4. Siap disajikan.
+    </string>
+
+    <string name="bahan_dalgona">
+        - 2 sendok makan NESCAFÉ Classic\n
+        - 2 sendok makan gula putih\n
+        - 125 ml susu cair\n
+        - 1 gelas es batu
+    </string>
+
+    <string name="step_dalgona">
+        1. Masukkan NESCAFÉ Classic dan gula ke dalam mangkuk kecil, lalu\n
+        2. tambahkan air panas sebanyak 2 sendok makan.\n
+        3. Aduk hingga mengembang dan menjadi whipped coffee.\n
+        4. Tuangkan susu cair ke dalam gelas dan masukkan es batu sesuai selera.\n
+        5. Tuangkan whipped coffee yang telah kamu buat sebelumnya.\n
+        6. Dalgona Coffee kamu siap untuk dinikmati bareng orang tersayang!\n
+    </string>
+
+    <string name="bahan_eskopi">
+        - 2 sdt atau 1 saset kopi instan\n
+        - 30-50 ml air\n
+        - 120 ml susu fresh milk atau UHT\n
+        - 20-30 ml gula aren cair\n
+    </string>
+
+    <string name="step_eskopi">
+        1. Larutkan gula aren yang sudah dicacah pada air mendidih.\n
+        Dinginkan dan sisihkan.\n
+        2. Siapkan gelas, seduh kopi dengan air panas. Diamkan.\n
+        3. Pada gelas saji, tuangkan gula aren cair.\n
+        Tambahkan es batu secukupnya. Tuangkan susu secara perlahan. \n
+        Masukkan kopi yang sudah diseduh. Es kopi susu gula aren ini \n
+        punya tiga lapisan warna yang membuatnya tampak cantik saat difoto. \n
+        Kalau tak punya gula aren, kamu bisa menggantinya dengan \n
+        brown sugar atau gula merah. Ketiga pemanis ini berbeda asal \n
+        tetapi tetap nikmat dijadikan campuran es kopi.\n
+    </string>
+
+    <string name="bahan_jus">
+        - 1 buah alpukat yang sudah matang\n
+        - Susu kental manis coklat atau putih (sesuai selera)\n
+        - 3 sdm gula pasir\n
+        - 100 ml air matang\n
+        - 250 ml es batu\n
+    </string>
+
+    <string name="step_jus">
+        1. Pilih alpukat yang sudah matang\n
+        2. Persiapkan alat untuk memblender\n
+        3. Masukkan bahan-bahan ke dalam blender\n
+        4. Blender alpukat dengan kecepatan sedang dengan waktu ± 2 menit.\n
+        5. dan sajikan.\n
+    </string>
+
+    <string name="bahan_pudding">
+        - 1000 ml air\n
+        - 1 sdt vanilla essence\n
+        - 93 gram susu bubuk\n
+        - 12 gram agar-agar powder\n
+        - 30 gram gula\n
+        - 250 gram potongan buah\n
+    </string>
+
+    <string name="step_pudding">
+        a. Campurkan susu bubuk dengan 675 ml air.\n
+        b. Larutkan bubuk agar-agar dalam sisa air. Masukkan gula dan esens vanila. Didihkan.\n
+        c. Aduk susu bubuk secara perlahan. Didihkan di atas api kecil selama 2 menit.\n
+        d. Atur buah-buahan ke dalam cetakan.\n
+        e. Saring campuran puding, tuang ke dalam cetakan. Dinginkan sebelum disajikan.\n
+    </string>
+
+    <string name="bahan_dessert_a">
+        - 10 keping Oreo/Biskuit Marie dihancurkan\n
+        - 5 sdm margarin cair\n
+    </string>
+
+    <string name="bahan_dessert_b">
+        - 400 ml susu cair putih\n
+        - 50-75 gr keju parut\n
+        - 1 sdm maizena\n
+        - 2 sdm gula\n
+    </string>
+
+    <string name="bahan_dessert_c">
+        - 150 gr Dark Cooking Chocolate (DCC)\n
+        - 400 ml susu cair\n
+        - 1 sdm maizena\n
+        - 2 sdm gula pasir\n
+        - 1 sdm margarin\n
+    </string>
+
+    <string name="step_dessert">
+        1. Campur semua bahan A, tata di wadah/cup, tekan-tekan dengan sendok supaya padat.\n
+        2. Kemudian masak semua bahan B sampai meletup-letup, tuang ke atas bahan A, dinginkan.\n
+        3. Lalu masak semua bahan C, kecuali margarin, aduk-aduk sampai meletup-letup, terakhir masukkan margarin.\n
+        4. Tuang ke atas bahan B. Masukkan kulkas tunggu dingin. Nikmat disajikan selagi dingin.\n
+    </string>
+
+    <string name="bahan_pancake">
+        - 125 gr tepung terigu\n
+        - 1 butir telur ayam, dikocok lepas\n
+        - 1/4 sdt garam\n
+        - 275 ml susu cair\n
+        - Whipping cream\n
+        - Mangga\n
+    </string>
+
+    <string name="step_pancake">
+        a. Campurkan susu bubuk dengan 675 ml air.\n
+        b. Larutkan bubuk agar-agar dalam sisa air. Masukkan gula dan esens vanila. Didihkan.\n
+        c. Aduk susu bubuk secara perlahan. Didihkan di atas api kecil selama 2 menit.\n
+        d. Atur buah-buahan ke dalam cetakan.\n
+        e. Saring campuran puding, tuang ke dalam cetakan. Dinginkan sebelum disajikan.
+    </string>
+
+    <string name="bahan_cubit">
+        - 100 gram tepung protein sedang\n
+        - 80 gram gula pasir\n
+        - 1 butir telur ayam\n
+        - 1/2 sdt Baking Powder\n
+        - 1/4 sdt Soda Kue\n
+        - 1 sdt ragi instan\n
+        - Sejumput vanili susu\n
+        - 2 sdm blueband cake and cookies di cairkan\n
+        - 100 ml air matang\n
+        - Secukupnya pasta matcha\n
+    </string>
+
+    <string name="step_cubit">
+        1. Mixer telur dan gula pasir hingga putih kental berjejak, tambahkan baking powder dan soda kue aduk\n
+        2. Tambahkan tepung terigu, vanili susu dan air bergantian mixer hingga tercampur rata gunakan speed rendah, tambahkan margarin cair aduk balik dengan spatula\n
+        3. Tambahkan pasta matcha aduk rata tambahkan ragi instan aduk hingga rata tutup adonan dengan serbet bersih, diamkan adonan selama 15 menit, bisa di sambi cuci perabot setelah 15 menit aduk adonan\n
+        4. Panaskan cetakan poles tipis margarin, gunakan api kecil saja, tuang 1 sdm sayur adonan tutup adonan selama 3 menit, setelah 3 menit tambahkan topping sesuai selera tutup lagi diamkan sebentar sekitar 1-2 menit kemudian angkat\n
+        5. Sajikan selagi hangat
+    </string>
+
+    <string name="bahan_tiramisu_a">
+        - 125 ml santan\n
+        - 125 ml susu\n
+        - 4 lembar daun pandan\n
+        - 1 butir telur\n
+        - 15 gr maizena\n
+        - 35 gr gula\n
+        - 1 sdt ekstrak vanila\n
+        - 1/2 sdt garam\n
+        - 60 gr mentega
+    </string>
+
+    <string name="bahan_tiramisu_b">
+        150 ml whipped cream (sebelum dikocok)
+    </string>
+
+    <string name="bahan_tiramisu_c">
+        - Biskuit / lady finger / eggsdrop\n
+        - 80 gr biang kopi (espresso)\n
+        - 35 gr gula aren\n
+        - 5 gr cokelat bubuk\n
+        - Whipped cream (untuk garnish)
+    </string>
+
+    <string name="step_tiramisu">
+        1. Untuk pastry cream, campurkan telur, gula, maizena, garam, dan ekstrak vanila. Aduk rata.\n
+        2. Panaskan santan, susu, dan daun pandan hingga mendidih. Tuang setengahnya ke campuran telur tadi, aduk rata lalu tuang semuanya ke panci rebusan sambil disaring. Aduk terus hingga mengental, gunakan api kecil.\n
+        3. Setelah api mati, masukkan mentega lalu aduk hingga larut. Pindahkan ke mangkuk lalu tutup permukaannya dengan plastic wrap.\n
+        4. Campurkan air kopi dengan gula aren aduk hingga larut.\n
+        5. Kocok whipped cream hingga kaku, campur dengan pastry cream yang sudah dingin, aduk rata.\n
+        6. Celupkan sebentar 5 keping biskuit Roma Kelapa ke dalam air kopi, letakkan di dasar wadah dan padatkan dengan sendok. Tuang pastry cream sampai ⅓ bagian wadah lalu celupkan 5 keping biskuit Roma Kelapa dan letakkan di atasnya. Tuang lagi pastry cream hingga ⅔ bagian wadah.\n
+        7. Siapkan whipped cream dalam piping bag yang diberi spuit polos. Semprotkan bulat-bulat atau sesuai selera dan beri cokelat bubuk sambil disaring ke seluruh permukaan cream.\n
+        8. Tiramisu bisa langsung disajikan atau simpan di kulkas 2-3 jam hingga set.
+    </string>
+
+    <string name="bahan">Bahan</string>
+    <string name="langkah">Langkah-langkah</string>
+    <string name="food_name1">Nasi Goreng</string>
+
+</resources>

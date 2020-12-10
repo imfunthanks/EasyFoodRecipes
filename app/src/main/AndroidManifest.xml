@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.easyfoodrecipes">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.easyfoodrecipes.Tiramisu"></activity>
+        <activity android:name="com.example.easyfoodrecipes.KueCubit" />
+        <activity android:name="com.example.easyfoodrecipes.DessertBox" />
+        <activity android:name="com.example.easyfoodrecipes.Pancake" />
+        <activity android:name="com.example.easyfoodrecipes.Pudding" />
+        <activity android:name="com.example.easyfoodrecipes.Eats" />
+        <activity android:name="com.example.easyfoodrecipes.JusAlpukat" />
+        <activity android:name="com.example.easyfoodrecipes.EsKopi" />
+        <activity android:name="com.example.easyfoodrecipes.DalgonaCoffee" />
+        <activity android:name="com.example.easyfoodrecipes.BobaThai" />
+        <activity android:name="com.example.easyfoodrecipes.ListBeverage" />
+        <activity android:name="com.example.easyfoodrecipes.EsCampur" />
+        <activity android:name="com.example.easyfoodrecipes.TahuGejrot" />
+        <activity android:name="com.example.easyfoodrecipes.MieGoreng" />
+        <activity android:name="com.example.easyfoodrecipes.Seblak" />
+        <activity android:name="com.example.easyfoodrecipes.AyamGeprek" />
+        <activity android:name="com.example.easyfoodrecipes.ListDessert" />
+        <activity android:name="com.example.easyfoodrecipes.ListFood" />
+        <activity android:name="com.example.easyfoodrecipes.NasiGoreng" />
+        <activity android:name="com.example.easyfoodrecipes.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
